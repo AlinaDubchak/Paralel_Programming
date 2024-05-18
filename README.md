@@ -32,4 +32,4 @@ The parallel algorithms were developed on the example of the expressions below:
 >3.	Sн = R*MCн            					CP: R  
 >4.	Aн = S*MDн*p + a*Eн*d         			СР: S, a, d, p
 
-A more detailed algorithm for each of the streams, a diagram and a description of the interaction can be found in the worlds provided for each work separately
+A more detailed algorithm for each of the streams, a diagram and a description of the interaction can be found in the folders provided for each work separately
